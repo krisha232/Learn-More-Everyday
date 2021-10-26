@@ -1,0 +1,81 @@
+.img-fluid{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+align-items: center;}
+
+.hi{
+    font-size: 15px;
+
+
+}    
+
+body{
+    background-color:rgb(62, 190, 126);
+}
+.container{
+    display:inline-block;
+    width: 25%;
+}
+
+#Home{
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color:white;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.line2 {
+    height: 6px;
+    background-color:black;
+    width: 70px;
+    margin: 8px auto;
+}
+nav{
+    font-size: 65 px;
+    color: white;
+    font-family:cursive;}
+    .page-footer {
+        position: relative;
+        display: block;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        background-color: rgb(78, 80, 77);
+        color: #fff;
+      }
+     
+    .member{
+        height: 90px;
+        width: 90px;
+        border-radius: 70px;
+    }
+.tm-post-link img {
+    position: relative;
+	display: block;
+	min-height: 100%;
+	max-width: 100%;
+	opacity: 0.8;
+}  
+.course {
+    
+    background-color: #F2F4FE;
+    border-radius: 8px;
+    overflow: hidden;
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease;
+  }
